@@ -1,3 +1,9 @@
 # React - To-Do List
 
-Simple to-do list built with React.
+Simple React to-do list with a mock REST API using JSON server.
+
+![GitHub Logo](/public/sample1.png)
+
+![GitHub Logo](/public/sample2.png)
+
+![GitHub Logo](/public/sample3.png)

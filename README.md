@@ -1,6 +1,6 @@
 # React - To-Do List
 
-Simple React to-do list with a mock REST API using JSON server.
+React to-do list with a mock REST API using JSON server.
 
 ![GitHub Logo](/public/sample1.png)
 
